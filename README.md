@@ -12,5 +12,3 @@ Email:       borokinjalkavish@gmail.com
 -------------------------
 [OK] Data fetched successfully.
 ```
-
-###
