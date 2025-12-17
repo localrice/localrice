@@ -10,5 +10,4 @@ Education:   3rd Semester, Computer Science
 Interests:   Embedded Systems, Linux, DevOps
 Email:       borokinjalkavish@gmail.com
 -------------------------
-[OK] Data fetched successfully.
-```
+
